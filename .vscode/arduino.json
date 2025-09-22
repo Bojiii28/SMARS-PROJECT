@@ -1,0 +1,5 @@
+{
+  "sketch": "SMARS_PROJECT.ino",
+  "board": "arduino:avr:uno",
+  "port": "COM3"
+}
