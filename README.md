@@ -18,34 +18,33 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)  
 - [Materials Used](#materials-used)  
 - [Photo Documentation](#photo-documentation)  
-- [Demo Video](#demo-video)  
 - [Procedure](#procedure)  
 - [Project Diagram](#project-diagram)  
-- [Program Code](#program-code)  
+- [Demo Video](#demo-video)  
 - [Features](#features)  
 - [Notes](#notes)  
 - [License](#license)  
 
 ---
 
-## 📝 Introduction
+## Introduction
 
 The **SMARS (Screwless Modular Assemblable Robotic System)** project demonstrates creativity in robotics and DIY electronics.  
 
 Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for assembly. Its design allows easy customization and autonomous functions, like obstacle avoidance, making it a perfect learning platform for beginners and hobbyists.  
 
 **Key Goals:**  
-- Learn modular assembly techniques  
-- Integrate sensors and motor control  
-- Program autonomous behavior using Arduino  
+- Learn modular assembly techniques.  
+- Integrate sensors and motor control.  
+- Program autonomous behavior using Arduino.  
 
 ---
 
-## 🔧 Materials Used
+## Materials Used
 
 | Component | Description |
 |-----------|-------------|
@@ -61,70 +60,47 @@ Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for 
 
 ---
 
-## 📸 Photo Documentation
+## Photo Documentation
+
+Step-by-step assembly images:
 
 | Step | Photo |
 |------|-------|
-| **Step 1** | ![Step 1](../project-folder/assets/1.jpg) |
-| **Step 2** | ![Step 2](../project-folder/assets/2.jpg) |
-| **Step 3** | ![Step 3](../project-folder/assets/3.jpg) |
-| **Step 4** | ![Step 4](../project-folder/assets/5.jpg) |
+| [1] | ![Step 1](./assets/1.jpg) |
+| [2] | ![Step 2](./assets/2.jpg) |
+| [3] | ![Step 3](./assets/3.jpg) |
+| [4] | ![Step 4](./assets/4.jpg) |
 
 ---
 
-## 🎥 Demo Video
+## Project Diagram
 
-Click below to watch the SMARS Robot in action:  
+Wiring and mechanical diagrams:
 
-[▶ Watch Demo Video](../project-folder/assets/SMARS_Video.mp4)
-
----
-
-## ⚙️ Procedure
-
-1. Insert batteries correctly into the holder  
-2. Place the robot on a flat, stable surface  
-3. Turn on the switch to power the robot  
-
-Once powered, the robot moves autonomously, detects obstacles using the ultrasonic sensor, and turns to avoid collisions.  
+![Project Diagram](./assets/Schematic_Diagram.png)
 
 ---
 
-## 📊 Project Diagram
+## Demo Video
 
-![Project Diagram](./project-folder/assets/Schematic_Diagram.png)
+GitHub does **not support inline video playback** in README.  
+Instead, upload the video to your repo or attach it in **Releases/Issues/Discussions**, then link to it here:
 
----
-
-## 💻 Program Code
-
-The Arduino program controlling SMARS can be found here:  
-
-[SMARS_PROJECT.ino](./project-folder/smars/SMARS_PROJECT.ino)
+[🎥 Watch Demo Video](./assets/SMARS_Video.mp4)
 
 ---
 
-## 🌟 Features
+## Procedure
 
-- Modular, screwless design for easy assembly  
-- Obstacle avoidance with ultrasonic sensor  
-- Powered by rechargeable 18650 batteries  
-- DIY-friendly structure using popsicle sticks and hot glue  
-- Beginner-friendly Arduino programming  
+1. Insert batteries correctly into the holder.  
+2. Place the mini tank on a flat, stable surface.  
+3. Turn on the switch to power the robot.  
 
----
-
-## 📝 Notes
-
-- Ensure batteries are fully charged before use  
-- Keep the robot on flat, obstacle-rich surfaces for best results  
-- Modify the Arduino code to add more behaviors  
+The robot will start moving and automatically detect obstacles, turning randomly to avoid collisions.  
 
 ---
 
-## 📜 License
+## License
 
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute it with attribution.  
-
----
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
