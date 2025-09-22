@@ -65,36 +65,21 @@ Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for 
 
 Step-by-step assembly images:
 
-<table>
-  <tr>
-    <td><b>Step 1</b></td>
-    <td><img src="https://github.com/user-attachments/assets/ab5fceae-b30f-4fed-9ac3-1ec40d538ab2" alt="Step 1" width="200"/></td>
-  </tr>
-  <tr>
-    <td><b>Step 2</b></td>
-    <td><img src="https://github.com/user-attachments/assets/bfe1c255-893b-4e28-b99c-249e8701084a" alt="Step 2" width="200"/></td>
-  </tr>
-  <tr>
-    <td><b>Step 3</b></td>
-    <td><img src="https://github.com/user-attachments/assets/8af3de3b-61e2-4151-99d1-f9b2c38c51d7" alt="Step 3" width="200"/></td>
-  </tr>
-  <tr>
-    <td><b>Step 4</b></td>
-    <td><img src="https://github.com/user-attachments/assets/65a92a7a-366b-4c41-9091-d67f60c41233" alt="Step 4" width="200"/></td>
-  </tr>
-</table>
+| Step | Photo |
+|------|-------|
+| **Step 1** | ![Step 1](https://github.com/user-attachments/assets/1.jpg) |
+| **Step 2** | ![Step 2](https://github.com/user-attachments/assets/2.jpg) |
+| **Step 3** | ![Step 3](https://github.com/user-attachments/assets/3.jpg) |
+| **Step 4** | ![Step 4](https://github.com/user-attachments/assets/4.jpg) |
+
+---
 
 ## Demo Video
 
-Watch the SMARS Robot in action:
+GitHub does **not support video embedding directly in README** with `<video>` tags.  
+Instead, upload the video to GitHub as an attachment or host it elsewhere, then link it like this:
 
-<video width="400" controls>
-  <source src="https://github.com/user-attachments/assets/SMARS_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-The robot autonomously navigates a surface, avoiding obstacles with its ultrasonic sensor, demonstrating modular and programmable behavior.  
+[🎥 Watch Demo Video](https://github.com/user-attachments/assets/SMARS_Video.mp4)
 
 ---
 
@@ -112,6 +97,6 @@ The robot will start moving and automatically detect obstacles, turning randomly
 
 Wiring and mechanical diagrams:
 
-![Project Diagram](<img width="627" height="423" alt="Screenshot 2025-09-22 161252" src="https://github.com/user-attachments/assets/413f00bb-9022-4573-88ab-58dfdca2a251" />)
+![Project Diagram](https://github.com/user-attachments/assets/Schematic Diagram.png)
 
 ---
