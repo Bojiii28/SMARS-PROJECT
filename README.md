@@ -65,10 +65,10 @@ Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for 
 
 | Step | Photo |
 |------|-------|
-| **Step 1** | ![Step 1](./project-folder/assets/1.jpg) |
-| **Step 2** | ![Step 2](./project-folder/assets/2.jpg) |
-| **Step 3** | ![Step 3](./project-folder/assets/3.jpg) |
-| **Step 4** | ![Step 4](./project-folder/assets/5.jpg) |
+| **Step 1** | ![Step 1](../project-folder/assets/1.jpg) |
+| **Step 2** | ![Step 2](../project-folder/assets/2.jpg) |
+| **Step 3** | ![Step 3](../project-folder/assets/3.jpg) |
+| **Step 4** | ![Step 4](../project-folder/assets/5.jpg) |
 
 ---
 
@@ -76,7 +76,7 @@ Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for 
 
 Click below to watch the SMARS Robot in action:  
 
-[▶ Watch Demo Video](./project-folder/assets/SMARS_Video.mp4)
+[▶ Watch Demo Video](../project-folder/assets/SMARS_Video.mp4)
 
 ---
 
@@ -92,7 +92,7 @@ Once powered, the robot moves autonomously, detects obstacles using the ultrason
 
 ## 📊 Project Diagram
 
-![Project Diagram](./project-folder/assets/Schematic%20Diagram.png)
+![Project Diagram](./project-folder/assets/Schematic_Diagram.png)
 
 ---
 
