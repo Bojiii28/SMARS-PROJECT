@@ -60,33 +60,32 @@ Built on Arduino, SMARS is a modular mini-robot that requires **no screws** for 
 
 ---
 
-## Photo Documentation
+## 📸 Photo Documentation
 
 Step-by-step assembly images:
 
 | Step | Photo |
 |------|-------|
-| [1] | ![Step 1](./assets/1.jpg) |
-| [2] | ![Step 2](./assets/2.jpg) |
-| [3] | ![Step 3](./assets/3.jpg) |
-| [4] | ![Step 4](./assets/4.jpg) |
+| **Step 1** | ![Step 1](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/1.jpg) |
+| **Step 2** | ![Step 2](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/2.jpg) |
+| **Step 3** | ![Step 3](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/3.jpg) |
+| **Step 4** | ![Step 4](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/4.jpg) |
 
 ---
 
-## Project Diagram
+## 📊 Project Diagram
 
 Wiring and mechanical diagrams:
 
-![Project Diagram](./assets/Schematic_Diagram.png)
+![Project Diagram](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/schematic_diagram.png)
 
 ---
 
-## Demo Video
+## 🎥 Demo Video
 
-GitHub does **not support inline video playback** in README.  
-Instead, upload the video to your repo or attach it in **Releases/Issues/Discussions**, then link to it here:
+GitHub doesn’t play videos inline, but you can link it like this:
 
-[🎥 Watch Demo Video](./assets/SMARS_Video.mp4)
+[▶ Watch Demo Video](https://raw.githubusercontent.com/Bojiii28/SMARS-PROJECT/main/assets/SMARS_Video.mp4)
 
 ---
 
